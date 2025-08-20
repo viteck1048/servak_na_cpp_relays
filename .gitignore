@@ -2,6 +2,7 @@
 build/
 bin/
 obj/
+lin_obj/
 *.user
 *.suo
 *.sln
@@ -58,3 +59,10 @@ Makefile
 *.dSYM/
 
 def_rand.h
+
+source/sqlite3.c
+source/sqlite3.h
+source/sqlite3.md5
+source/obj/
+source/lin_obj/
+source/lib/
